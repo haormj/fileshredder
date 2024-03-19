@@ -1,2 +1,9 @@
-# fileshredder
-control file lify cyle by file count, file duration and file size
+## fileshredder
+
+### 概述
+
+本库的目标是为了控制文件的生命周期，支持按照存活时间，目录下文件总大小，文件数量来控制。遍历文件顺序是按照文件最后修改时间从小到大。
+
+### 使用
+
+见 example
